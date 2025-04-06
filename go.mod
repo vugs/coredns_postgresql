@@ -1,4 +1,4 @@
-module github.com/he-deng/coredns_postgresql
+module github.com/vugs/coredns_postgresql
 
 go 1.16
 
